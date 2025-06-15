@@ -1,2 +1,3 @@
 # new-project
-this is my additional project
+This is my additional second project
+Author- Khushi parihar
